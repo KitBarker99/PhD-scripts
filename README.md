@@ -3,10 +3,14 @@ Scripts made and used during my PhD
 
 Various scripts using pymatgen (see their documentation for details! they are great) ---- pymatgen.org
 
-Initialising vasp calulations (optimisation --> KPOINTS, INCAR, POTCAR POSCAR etc..)
+Initialising vasp calulations (KPOINTS, INCAR, POTCAR POSCAR etc..)
+
 MD analysis (diffusion)
+
 stability of calculation with materials project
+
 electrochemical stability
+
 More..
 
 Note most of this will not require some personal tinkering
